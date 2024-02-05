@@ -4,10 +4,10 @@
 
 <div align="center"> 🏛 Universidad San Carlos de Guatemala</div>
 <div align="center">
-📕 Laboratorio de Organizacion Computacional 
+💻 Laboratorio de Organizacion Computacional 
 </div>
 <div align="center"> 📆 Primer Semestre 2024</div>
-<div align="center"> Sección B</div>
+<div align="center">🏫​ Sección B</div>
 <div align="center">
 🙍‍♂️ Agregar Nombre
 </div>
