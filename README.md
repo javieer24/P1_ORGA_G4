@@ -8,7 +8,10 @@
 </div>
 <div align="center"> 📆 Primer Semestre 2024</div>
 <div align="center">🏫​ Sección B</div>
-
+<div align="center">
+🙍‍♂️Juan Pascual Itzep Coguox - 202202161
+</div>
+## 📋 Tabla de Contenidos
 <div align="center">
 🙍‍♂️ Oswaldo Antonio Choc Cuteres - 201901844
 </div>
@@ -21,7 +24,4 @@
 <div align="center">
 🙍‍♂️ Jencer Hamilton Hernández Alonzo - 202002141
 </div>
-<div align="center">
-🙍‍♂️Juan Pascual Itzep Coguox - 202202161
-</div>
-## 📋 Tabla de Contenidos
+
